@@ -18,7 +18,6 @@ from six.moves import xrange
 
 import warnings
 import numpy
-import numpy as np
 
 try:
     from scipy.signal.signaltools import _valfrommode, _bvalfromboundary, convolve
